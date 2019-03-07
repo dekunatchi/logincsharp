@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\bin\Debug\lgin.exe.config
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\bin\Debug\lgin.exe
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\bin\Debug\lgin.pdb
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.MainForm.resources
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.exe
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.pdb
+C:\Users\Student\Documents\SharpDevelop Projects\lgin\lgin\obj\Debug\lgin.Form1.resources
